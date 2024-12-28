@@ -34,7 +34,7 @@ This section outlines a hypothetical scenario in which our End-User Karen Doe ha
 <img src="https://imgur.com/tX0zWCU.png" alt="Image"/>
 </p>
 <p>
-2. At this stage I am confirming with the End-User that the issue not being caused by the battery and instead we should do a hard reset on the machine. I advise the End-User of this and confirm that they are ready to proceed.
+2. At this stage I am confirming with the End-User that the issue is not being caused by the battery and instead we should do a hard reset on the machine. I advise the End-User of this and confirm that they are ready to proceed.
 
   Once they confirm, I guide them through the hard reset, advising them to hold down the power button for 15 seconds and allow it to fully boot after this. The End-User confirms this has remedied the problem and it is now switching on.
 
