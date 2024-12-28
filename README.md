@@ -23,7 +23,7 @@ This section outlines a hypothetical scenario in which our End-User Karen Doe ha
 
 <h2>Installation, Setup, Resource Setup, Executing Functions</h2>
 
-1. Below I have created a ticket as our End-User Karen Doe. The main features of the ticket we can observe before changing a couple of features are the priority level which is high due to the urgency of the issue as the CFOs laptop is essential for them to undertake their tasks for the business. It is assigned to John Doe in the support department and has a default SLA Plan of 18 hours. The End-User Karen has stated "adobe software not working for employees in the accounting department."
+1. Below I have created a ticket as our End-User Karen Doe. I have already changed some of the key features of this ticket such as the priority level which is high due to the urgency of the issue as the CFOs laptop is essential for them to undertake their tasks for the business. It is assigned to John Doe in the support department and has a default SLA Plan of 18 hours. The End-User Karen has stated "adobe software not working for employees in the accounting department."
 
     My first actions as seen in the ticket thread were to update the priority level of the ticket from "Normal" to "High". I then claimed the ticket as John Doe Agent and updated the SLA Plan from the Default Plan to the Sev B Plan which has a grace period of 4 hours to allow for sufficient troubleshooting.
 
