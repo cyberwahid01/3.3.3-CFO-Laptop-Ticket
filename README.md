@@ -4,6 +4,8 @@
 
 <h1>Ticket Resolutions: CFO Laptop Ticket 🪟</h1>
 This section outlines a hypothetical scenario in which our End-User Karen Doe has submitted a ticket for her CFO because his laptop will not switch on. I have structured this section the same way as the last so we can see the Ticket Thread as a series of events, including changing the properties of the Ticket in the beginning to the conversation thread with the End-User to the solution of the ticket.
+
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
 
 - Lenovo Ideapad 5 Pro 16gb AMD Ryzen 7
@@ -47,3 +49,4 @@ This section outlines a hypothetical scenario in which our End-User Karen Doe ha
 <img src="https://imgur.com/Gs2sWAW.png" alt="Image"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
